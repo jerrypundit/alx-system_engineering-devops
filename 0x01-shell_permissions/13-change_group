@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(chown :school hello /.)"
+chown :school hello /.
