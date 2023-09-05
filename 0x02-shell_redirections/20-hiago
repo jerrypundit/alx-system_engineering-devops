@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Coolest coder" | tr -d 'cC'
